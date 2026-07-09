@@ -3,6 +3,11 @@
 An interactive, AI-powered Retrieval-Augmented Generation (RAG) platform that lets you upload multiple PDF documents and perform semantic search, multi-turn QA chat, and automatic summarization. Powered by Streamlit, LangChain, FAISS, and Groq's high-speed Llama-3 API.
 
 ---
+## 🚀 Live Demo
+
+Try the working application here:
+
+[Smart Document Search System - Live Demo](https://prodduturupraseeda16-smart-document-search-app-exm0ap.streamlit.app/)
 
 ## 📂 Project Architecture & Data Flow
 
